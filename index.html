@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Quiz Game</title>
+</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f5f5f5;
+    }
+    #diff-form-container{
+        margin-top: 20px;
+        width: 600px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 1px solid #ccc;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        text-align: center;
+        background-color: #fff;
+        transition: background-color 0.3s ease;
+        cursor: pointer;
+    }
+    .title {
+        margin-top:30px;
+        font-size: 40px;
+        color: #282727;
+        font-weight: bolder;
+    }
+    #diff-form{
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .form-title {
+        font-size: 24px;
+        margin-bottom: 30px;
+        width:600px;
+        color: #000000;
+        font-weight: bolder;
+    }
+    #diff-form button {
+        padding: 16px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin-bottom: 15px;
+        width: 100%;
+        font-size: 18px;
+        text-decoration: none;
+        text-align: center;
+        &:hover {
+            background-color: #0056b3;
+        }
+    }
+    #question-form{
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        display:none;
+    }
+    .form-question-title{
+        margin-bottom: 30px;
+        font-size: 24px;
+        color: #555353;
+        width:600px;
+    }
+    .form-question-subtitle{
+        margin-bottom: 20px;
+        font-size: 18px;
+        color: #555353;
+        width:600px;
+        font-weight: bold;
+    }
+    .answers{
+        padding: 15px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin-bottom: 10px;
+        width: 100%;
+        font-size: 18px;
+        text-decoration: none;
+        text-align:left;
+        &:hover {
+            background-color: #0056b3;
+        }
+    }
+    .timer{
+        margin-bottom: 10px;
+        font-size: 18px;
+        font-weight: bolder;
+        color: #dc3545;
+        width: 100px;
+        text-align: center;
+        border-radius: 5px;
+        padding: 5px;
+
+    }
+    .score{
+        margin-top: 20px;
+        font-size: 24px;
+        font-weight: bold;
+        color: #555353;
+    }
+    .next{
+        width:fit-content;
+        padding: 15px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin-bottom: 10px;
+        margin-top:20px;
+        font-size: 18px;
+        text-decoration: none;
+        text-align:left;
+        &:hover {
+            background-color: #0056b3;
+        }
+    }
+</style>
+<body>
+    <div id="diff-form-container">
+        <label for="title" class="title">Advanced Quiz Game</label>
+        <form id="diff-form">
+            <label for="select-diff" class="form-title">Select Difficulty</label>
+            <button id="easy">Easy</button>
+            <button id="medium">Medium</button>
+            <button id="hard">Hard</button>
+        </form>
+        <form id="question-form">
+            <label for="title" class="form-question-title" id="question"></label>
+            <label for="remaining-questions" class="form-question-subtitle" id="remaining-ques">Remaining questions:</label>
+            <button class="answers" id="option1"></button>
+            <button class="answers" id="option2"></button>
+            <button class="answers" id="option3"></button>  
+            <button class="answers" id="option4"></button>
+            <!-- <span class="timer" id="timer">Time left:</span> -->
+             <span class="score" id="score">Score:</span>
+            <button class="next" id="next">Next</button>
+        </form>
+    </div>
+    <script src="script.js"></script> 
+</body>
+</html>

@@ -1,0 +1,77 @@
+[
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the largest planet in our Solar System?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "answer": "Diamond"
+    },
+    {
+        "question": "In what year did the Titanic sink?",
+        "options": ["1910", "1912", "1914", "1916"],
+        "answer": "1912"
+    },
+    {
+        "question": "Which organ is primarily responsible for filtering blood in the human body?",
+        "options": ["Heart", "Lungs", "Kidneys", "Liver"],
+        "answer": "Kidneys"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8"
+    },
+    {
+        "question": "Which planet is known for its rings?",
+        "options": ["Earth", "Mars", "Saturn", "Jupiter"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Yuan", "Won", "Yen", "Rupee"],
+        "answer": "Yen"
+    },
+    {
+        "question": "In what year did World War I begin?",
+        "options": ["1912", "1914", "1916", "1918"],
+        "answer": "1914"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the main ingredient in traditional Japanese miso soup?",
+        "options": ["Soybeans", "Rice", "Barley", "Fish"],
+        "answer": "Soybeans"
+    },
+    {
+        "question": "Which country is the largest producer of coffee in the world?",
+        "options": ["Colombia", "Vietnam", "Brazil", "Indonesia"],
+        "answer": "Brazil"
+    }
+]

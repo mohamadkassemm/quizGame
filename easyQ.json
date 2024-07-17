@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+    },
+    {
+        "question": "What color is the sky on a clear day?",
+        "options": ["Blue", "Green", "Red", "Yellow"],
+        "answer": "Blue"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Earth", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest animal on Earth?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["100°C", "50°C", "75°C", "150°C"],
+        "answer": "100°C"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the primary color of a banana?",
+        "options": ["Red", "Green", "Yellow", "Blue"],
+        "answer": "Yellow"
+    },
+    {
+        "question": "What is 5 + 3?",
+        "options": ["7", "8", "9", "10"],
+        "answer": "8"
+    },
+    {
+        "question": "Which country is known for the Great Wall?",
+        "options": ["India", "China", "Japan", "Russia"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Onion", "Pepper"],
+        "answer": "Avocado"
+    },
+    {
+        "question": "What is the largest continent by area?",
+        "options": ["Africa", "Asia", "Europe", "Australia"],
+        "answer": "Asia"
+    },
+    {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": ["Tiger", "Elephant", "Lion", "Gorilla"],
+        "answer": "Lion"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Earth", "Mars", "Mercury"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": ["6", "8", "10", "12"],
+        "answer": "8"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": ["Lion", "Cheetah", "Leopard", "Tiger"],
+        "answer": "Cheetah"
+    },
+    {
+        "question": "What is H2O commonly known as?",
+        "options": ["Oxygen", "Water", "Salt", "Hydrogen"],
+        "answer": "Water"
+    },
+    {
+        "question": "Which planet is known as the Earth's twin?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer": "Venus"
+    }
+]

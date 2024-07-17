@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What is the chemical symbol for the element with atomic number 74?",
+        "options": ["W", "U", "Pb", "Hg"],
+        "answer": "W"
+    },
+    {
+        "question": "Who developed the theory of general relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the value of the mathematical constant 'e' approximately?",
+        "options": ["2.14", "2.71", "3.14", "1.61"],
+        "answer": "2.71"
+    },
+    {
+        "question": "In which year did the Battle of Hastings take place?",
+        "options": ["1066", "1215", "1415", "1815"],
+        "answer": "1066"
+    },
+    {
+        "question": "Which country has the most Nobel Prize winners in Literature?",
+        "options": ["United States", "France", "United Kingdom", "Germany"],
+        "answer": "France"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+    },
+    {
+        "question": "Who is the author of the novel 'Ulysses'?",
+        "options": ["James Joyce", "Ernest Hemingway", "F. Scott Fitzgerald", "George Orwell"],
+        "answer": "James Joyce"
+    }
+]
